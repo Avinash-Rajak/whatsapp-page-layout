@@ -130,3 +130,25 @@
     font-size: 14px;
     line-height: 21px;
 }
+
+.explore-btn{
+    padding: 84px 0;
+}
+
+.explore-btn a{
+    text-decoration: none;
+    border: 2px solid #77d7c8;
+    color: #1cb39b;
+    border-radius: 40px;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.071em;
+    line-height: 19px;
+    padding: 18px 32px;
+    transition: 0.4s;
+}
+
+.explore-btn a:hover{
+    color: #fff;
+    background-color: #1cb39b;
+}
