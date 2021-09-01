@@ -75,6 +75,10 @@
     color: #1cb39b;
 }
 
+.center{
+    padding-top: 110px;
+}
+
 .content{
     padding: 58px 74.37px 0 74.37px;
     background-color: #d0e9ea;
@@ -179,4 +183,23 @@
 
 .list-1 ul li a:hover{
     border-bottom: 1.5px solid #fff;
+}
+
+.rights{
+    font-size: 14px;
+    color: rgba(255, 255, 255, .6);
+    line-height: 16px;
+    display: inline-block;
+    width: 24.9%;
+    padding-right: 24px;
+}
+
+.terms{
+    display: inline-block;
+}
+
+.terms a{
+    text-decoration: none;
+    color: #fff;
+
 }
