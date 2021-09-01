@@ -1,3 +1,7 @@
+body{
+    overflow-x: hidden;
+}
+
 .navbar{
     background-color: #1ebea5;
 }
@@ -28,7 +32,7 @@
 }
 
 .header{
-    padding: 150px 0 150px 160px;
+    padding: 150px 0 150px 0;
 
 }
 
@@ -77,6 +81,7 @@
 
 .center{
     padding-top: 110px;
+    padding-left: 40px;
 }
 
 .content{
@@ -202,4 +207,14 @@
     text-decoration: none;
     color: #fff;
 
+}
+
+@media only screen and (max-width: 972px) {
+  .header {
+      /* color: #fff;
+    text-align: center;
+    background-color: #1ebea5; */
+    padding: 0;
+    padding-bottom: 40px;
+  }
 }
