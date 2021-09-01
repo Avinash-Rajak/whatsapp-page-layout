@@ -217,4 +217,18 @@ body{
     padding: 0;
     padding-bottom: 40px;
   }
+
+  .rights{
+      width: 100%;
+      text-align: center;
+  }
+
+  .terms{
+      text-align: center;
+      width: 100%;
+  }
+
+  .navbar{
+      width: 100%;
+  }
 }
