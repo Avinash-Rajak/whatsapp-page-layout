@@ -152,3 +152,31 @@
     color: #fff;
     background-color: #1cb39b;
 }
+
+.list-1 h4{
+    color: rgba(255, 255, 255, .6);
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: .08em;
+    line-height: 14px;
+    margin-bottom: 22px;
+}
+
+.list-1 ul{
+    list-style: none;
+    padding-left: 0px;
+}
+
+.list-1 ul li{
+    padding-bottom: 6px;
+}
+
+.list-1 ul li a{
+    text-decoration: none;
+    color: #fff;
+    cursor: pointer;
+}
+
+.list-1 ul li a:hover{
+    border-bottom: 1.5px solid #fff;
+}
